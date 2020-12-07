@@ -22,7 +22,7 @@
 
 [Qt for WebAssembly](https://doc.qt.io/qt-5/wasm.html)
 
-[ntroducing the WebAssembly backend for TensorFlow.js](https://blog.tensorflow.org/2020/03/introducing-webassembly-backend-for-tensorflow-js.html)
+[Introducing the WebAssembly backend for TensorFlow.js](https://blog.tensorflow.org/2020/03/introducing-webassembly-backend-for-tensorflow-js.html)
 
 [Blazor WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
