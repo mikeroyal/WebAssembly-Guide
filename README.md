@@ -6,7 +6,14 @@
 
 #### A guide covering WebAssembly including the applications and tools that will make you a better and more efficient developer with WebAssembly.
 
-## Resources
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118560491-6bc66c80-b71e-11eb-97e7-0ea993bd2f80.png">
+  <br />
+</p>
+
+# WebAssembly Learning Resources
 
 [WebAssembly](https://webassembly.org/) is a new open standard of code that can be run in modern web browsers. It is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++, C# and Rust with a compilation target so that they can run on the web. WebAssemly is developed by W3C, Mozilla, Microsoft, Google, and Apple.
 
@@ -40,7 +47,7 @@
 
 [WebAssembly Training Courses on NobleProg](https://www.nobleprog.com/webassembly-training)
 
-## Tools
+# WebAssembly Tools and Frameworks
 
 [Uno Platform](https://platform.uno/) is a Universal Windows Platform Bridge that allows UWP-based code (C# and XAML) to run on iOS, Android, macOS, WebAssembly, Linux and Windows. It provides the full definitions of the UWP [Windows 10 2004 (19041)](https://docs.microsoft.com/en-us/windows/uwp/whats-new/windows-10-build-19041), and the implementation of a growing number of parts of the UWP API, such as Windows.UI.Xaml, to enable UWP and WinUI applications to run on these platforms.
 
@@ -69,3 +76,12 @@
 [Pion WebRTC](https://github.com/pion/webrtc) is a pure Go implementation of [WebRTC API](https://w3c.github.io/webrtc-pc/).
 
 [vim.wasm](http://rhysd.github.io/vim.wasm) is a port of the Vim ediotr to Webassemly using  [Emscripten](http://kripken.github.io/emscripten-site/) and [Binaryen](https://github.com/WebAssembly/binaryen).
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/WebAssembly-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
